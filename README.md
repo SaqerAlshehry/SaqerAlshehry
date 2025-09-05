@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Saqer Alshehri
 
 🎓 Software Engineering Student @ **KFUPM** (Ranked Top 67 Globally)  
-📱 **iOS Developer** | 🌐 IoT Concentration | 🤖 AI/ML Enthusiast
+📱 **iOS Developer** | 🌐 IoT Concentration | 🤖 AI/ML Enthusiast  
 🎯 Graduating **May 2026** | 🚀 Interned at **Halliburton (Sperry Team)**
  
 
@@ -22,8 +22,8 @@
 
 ## 🚀 What I'm Focused On
 - Crafting seamless and modern **iOS experiences** using Swift & SwiftUI  
-- Exploring **AI/ML**, integrating intelligent features into apps  
 - Learning deeply about **connected systems** through my IoT concentration
+- Exploring **AI/ML**, integrating intelligent features into apps
 - Designing clean and user-centric interfaces — see my [Dribbble](https://dribbble.com/riche-homme-10) 🎨  
 
 ---
