@@ -30,7 +30,7 @@
 
 ## 📈 GitHub Stats
 
-  ![Saqer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaqerAlshehry&show_icons=true&theme=tokyonight&cache_seconds=86400)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaqerAlshehry&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1)
 
 ---
 
