@@ -20,14 +20,6 @@
 
 ---
 
-## 🚀 What I'm Focused On
-- Crafting seamless and modern **iOS experiences** using Swift & SwiftUI  
-- Learning deeply about **connected systems** through my IoT concentration
-- Exploring **AI/ML**, integrating intelligent features into apps
-- Designing clean and user-centric interfaces — see my [Dribbble](https://dribbble.com/riche-homme-10) 🎨  
-
----
-
 ## 🌐 My Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqer-alshehri-73b90021b/)  
