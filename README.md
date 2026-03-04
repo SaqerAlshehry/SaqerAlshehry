@@ -49,9 +49,9 @@ The model distinguishes between four leakage categories:
 - Liquid → Gas
 - Liquid → Liquid
 
-**Tech:** Python, Machine Learning, Signal Processing
+**Tech:** Python, VScode
+📄 [View Presentation](https://drive.google.com/file/d/1-ct2U3u3HjMeOY0nkFWbvhKVh6_gzUib/view?usp=sharing)  
 
-📄 [View Presentation](https://drive.google.com/file/d/1-ct2U3u3HjMeOY0nkFWbvhKVh6_gzUib/view?usp=sharing)
 ---
 
 ## 🤝 Connect
