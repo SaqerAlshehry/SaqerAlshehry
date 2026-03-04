@@ -11,7 +11,6 @@
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
-[![App Store](https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/sa/app/aletheia-a-space-for-ideas/id6758401904)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,7 +27,7 @@ Aletheia is a quiet space for discovering and reflecting on ideas through though
 
 **Tech:** Swift, SwiftUI, StoreKit, Python, FastAPI, OpenAI API  
 
-📲 [View on the App Store](https://apps.apple.com/sa/app/aletheia-a-space-for-ideas/id6758401904)
+[![App Store](https://img.shields.io/badge/App%20Store-View-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/sa/app/aletheia-a-space-for-ideas/id6758401904)
 
 ### 📡 Radar System — IoT Embedded Project
 
@@ -52,7 +51,7 @@ The model distinguishes between four leakage categories:
 
 **Tech:** Python, Machine Learning, Signal Processing
 
-📊 [View Presentation](https://drive.google.com/file/d/1-ct2U3u3HjMeOY0nkFWbvhKVh6_gzUib/view?usp=sharing)
+📄 [View Presentation](https://drive.google.com/file/d/1-ct2U3u3HjMeOY0nkFWbvhKVh6_gzUib/view?usp=sharing)
 ---
 
 ## 🤝 Connect
