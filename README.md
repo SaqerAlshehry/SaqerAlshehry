@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm Saqer Alshehri
 
-🎓 Software Engineering Student @ **KFUPM** (Ranked Top 67 Globally)  
-📱 **iOS Developer** | 🌐 IoT Concentration | 🤖 AI/ML Enthusiast  
-🎯 Graduating **May 2026** | 🚀 Interned at **Halliburton (Sperry Team)**
+📱 **iOS Engineer**  
+🎓 Software Engineering @ KFUPM (Top 67 Globally) | 🎯 Graduating May 2026  
+🌐 IoT Concentration | 🤖 AI/ML Enthusiast  
+🚀 iOS Engineer Intern **@ Tabby (Auth Team)** | ⚙️ SWE Intern **@ Halliburton (Sperry Team)**
  
 
 ---
