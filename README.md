@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Saqer Alshehri
 
-📱 iOS Engineer  
+📱 iOS Engineer Intern @ Tabby
 
 🎓 B.S. Software Engineering @ KFUPM (Top 67 Globally) | 🎯 May 2026   
 🌐 IoT Concentration | 🤖 AI/ML
