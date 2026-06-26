@@ -2,7 +2,7 @@
 
 📱 iOS Engineer Intern @ Tabby
 
-🎓 B.S. Software Engineering @ KFUPM (Top 67 Globally) | 🎯 May 2026   
+🎓 B.S. Software Engineering @ KFUPM (Top 63 Globally) | 🎯 May 2026   
 🌐 IoT Concentration | 🤖 AI/ML
 
 🚀 **iOS Engineer Intern @ Tabby (Auth Team)** | Apr 2026–Present  
